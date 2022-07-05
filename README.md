@@ -137,6 +137,8 @@ Medium and large number of events might impact the customer experience and make 
 ### Naive bank account
 
 ![Aggregate Design Canvas](examples/naive-bank-account.jpg "Aggregate Design Canvas - Naive bank account")
+![Aggregate Design Canvas](examples/naive-bank-account-farsi.png "Aggregate Design Canvas - Naive bank account")
+
 
 ## Contributors
 
