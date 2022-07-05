@@ -12,10 +12,11 @@ The canvas has a suggested order of working through it, that helps to iterativel
 بوم دارای یک ترتیب پیشنهادی برای کار بر روی آن است که به بحث تکراری جنبه‌های مختلف طرحی Aggregate کمک می‌کند.
 
 
-![Aggregate Design Canvas](resources/aggregate-design-canvas-v1.jpg "Aggregate Design Canvas")
+![Aggregate Design Canvas](resources/aggregate-design-canvas-v1-farsi.png "Aggregate Design Canvas")
 
 ### Downloads
 
+- [Aggregate Design Canvas FARSI (png)](resources/aggregate-design-canvas-v1-farsi.png "Aggregate Design Canvas FARSI (png)")
 - [Aggregate Design Canvas (jpg)](resources/aggregate-design-canvas-v1.jpg "Aggregate Design Canvas (jpg)")
 - [Aggregate Design Canvas (pdf)](resources/aggregate-design-canvas-v1.pdf "Aggregate Design Canvas (pdf)")
 - [Aggregate Design Canvas (miro board backup)](resources/aggregate-design-canvas-v1.rtb "Aggregate Design Canvas (miro board backup)")
