@@ -35,7 +35,7 @@ Give your aggregate a good name. In some domains it makes sense to include as pa
 Summarise the main responsibilities and purpose of the aggregate. It’s a good idea to include the reasons why such boundaries were chosen and tradeoffs that were made compared to other designs.
 
 ### 2. توضیحات
-مسئولیت های اصلی و هدف کل را خلاصه کنید. ایده خوبی است که دلایل انتخاب چنین مرزها و مبادله هایی که در مقایسه با طرح های دیگر ایجاد شده است را نیز درج کنید.
+مسئولیت های اصلی و هدف aggregate را خلاصه کنید. ایده خوبی است که دلایل انتخاب چنین مرزها و مبادله هایی که در مقایسه با طرح های دیگر ایجاد شده است را نیز درج کنید.
 
 
 ### 3. State Transitions
